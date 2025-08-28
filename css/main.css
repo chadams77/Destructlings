@@ -1,0 +1,30 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #000;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: none;
+}
+
+#canvas2d {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: none;
+    pointer-events: none;
+}

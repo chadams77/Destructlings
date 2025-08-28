@@ -1,0 +1,1 @@
+%LOCALAPPDATA%\emsdk\emsdk_env.bat
